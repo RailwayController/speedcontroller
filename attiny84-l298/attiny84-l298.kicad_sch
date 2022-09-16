@@ -1,0 +1,22 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 9cd90590-d727-438e-8d2b-304c54e4c989)
+
+  (paper "A4")
+
+  (title_block
+    (title "ATTiny84 L298 Speed controller")
+    (date "2022-09-16")
+    (rev "0.1")
+    (company "Sidings Media")
+    (comment 1 "Licence: CERN-OHL-P-2.0 or any later version")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
