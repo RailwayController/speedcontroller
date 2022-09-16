@@ -3,9 +3,10 @@ SPDX-FileCopyrightText: 2022 Sidings Media <contact@sidingsmedia.com>
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
 
-# Railway Controller
+# Railway Controller - Speed controller
 
-Template repository
+This repository contains designs for speed control boards for use with
+the Railway Controller system.
 
 ## Licence
 This repo uses the [REUSE](https://reuse.software) standard in order to
