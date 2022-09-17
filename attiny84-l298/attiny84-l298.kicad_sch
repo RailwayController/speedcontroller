@@ -2464,7 +2464,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid d8ea8037-0ecf-4129-9e03-70f660962128)
   )
-  (label "L298_IN2" (at 149.86 83.82 180)
+  (label "L298_IN1" (at 149.86 83.82 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid e404d579-1518-4895-85f3-86f96461aaa8)
   )
