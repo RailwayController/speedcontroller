@@ -2351,7 +2351,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 15.24 193.04 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 06e3cd8a-7f61-4bd0-a023-8cd89c2cd84e)
-    (property "Reference" "H4" (id 0) (at 17.78 190.4999 0)
+    (property "Reference" "MK4" (id 0) (at 17.78 190.4999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole_Pad" (id 1) (at 17.78 193.0399 0)
@@ -2741,7 +2741,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 15.24 185.42 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 70ecdcb3-2b1d-4dbb-9c29-b8eb242f418b)
-    (property "Reference" "H3" (id 0) (at 17.78 182.8799 0)
+    (property "Reference" "MK3" (id 0) (at 17.78 182.8799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole_Pad" (id 1) (at 17.78 185.4199 0)
@@ -2813,7 +2813,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 15.24 170.18 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8ae9a3f2-0a72-43b1-a632-5c7588c9710d)
-    (property "Reference" "H1" (id 0) (at 17.78 167.6399 0)
+    (property "Reference" "MK1" (id 0) (at 17.78 167.6399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole_Pad" (id 1) (at 17.78 170.1799 0)
@@ -3034,7 +3034,7 @@
   (symbol (lib_id "Mechanical:MountingHole_Pad") (at 15.24 177.8 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid caf60ef0-6398-47f8-83aa-2549673c7f6c)
-    (property "Reference" "H2" (id 0) (at 17.78 175.2599 0)
+    (property "Reference" "MK2" (id 0) (at 17.78 175.2599 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "MountingHole_Pad" (id 1) (at 17.78 177.7999 0)
@@ -3571,18 +3571,6 @@
     (path "/5ba00efe-b930-4770-aafd-a483a0e15fb7/272bbb0f-5e80-4b18-845d-e1650dca7452"
       (reference "F1") (unit 1) (value "5A") (footprint "Fuse:Fuseholder_Littelfuse_445_030_series_5x20mm")
     )
-    (path "/8ae9a3f2-0a72-43b1-a632-5c7588c9710d"
-      (reference "H1") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm")
-    )
-    (path "/caf60ef0-6398-47f8-83aa-2549673c7f6c"
-      (reference "H2") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm")
-    )
-    (path "/70ecdcb3-2b1d-4dbb-9c29-b8eb242f418b"
-      (reference "H3") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm")
-    )
-    (path "/06e3cd8a-7f61-4bd0-a023-8cd89c2cd84e"
-      (reference "H4") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm")
-    )
     (path "/dad53da1-1ed9-4f5a-866b-6bc10822e80b"
       (reference "J1") (unit 1) (value "DIN41612_02x16_AB") (footprint "Connector_DIN:DIN41612_B2_2x16_Male_Horizontal_THT")
     )
@@ -3600,6 +3588,18 @@
     )
     (path "/5ba00efe-b930-4770-aafd-a483a0e15fb7/a660d7fa-7322-4dca-ac0c-5164e88de5a7"
       (reference "J6") (unit 1) (value "Screw_Terminal_01x03") (footprint "TerminalBlock:TerminalBlock_bornier-3_P5.08mm")
+    )
+    (path "/8ae9a3f2-0a72-43b1-a632-5c7588c9710d"
+      (reference "MK1") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm")
+    )
+    (path "/caf60ef0-6398-47f8-83aa-2549673c7f6c"
+      (reference "MK2") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm")
+    )
+    (path "/70ecdcb3-2b1d-4dbb-9c29-b8eb242f418b"
+      (reference "MK3") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm")
+    )
+    (path "/06e3cd8a-7f61-4bd0-a023-8cd89c2cd84e"
+      (reference "MK4") (unit 1) (value "MountingHole_Pad") (footprint "MountingHole:MountingHole_2.7mm")
     )
     (path "/5f363ae9-a03f-479d-856e-b8161074866b"
       (reference "Q1") (unit 1) (value "BSS138") (footprint "Package_TO_SOT_SMD:SOT-23")
