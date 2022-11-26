@@ -3,6 +3,6 @@ Upstream-Name: Railway Controller
 Upstream-Contact: Sidings Media <contact@sidingsmedia.com>
 Source: 
 
-Files: attiny84-l298/*
+Files: attiny84/*
 Copyright: 2022 Sidings Media <contact@sidingsmedia.com>
 License: CERN-OHL-P-2.0+
