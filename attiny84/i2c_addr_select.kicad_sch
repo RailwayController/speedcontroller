@@ -923,7 +923,7 @@
     (uuid 268efdc8-9cdf-4caf-90c2-f42954cf06cd)
     (property "Reference" "SW1" (id 0) (at 95.25 87.63 0))
     (property "Value" "SW_DIP_x08" (id 1) (at 95.25 90.17 0))
-    (property "Footprint" "Package_DIP:DIP-16_W7.62mm" (id 2) (at 95.25 105.41 0)
+    (property "Footprint" "Button_Switch_THT:SW_DIP_SPSTx08_Slide_6.7x21.88mm_W7.62mm_P2.54mm_LowProfile" (id 2) (at 95.25 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 95.25 105.41 0)

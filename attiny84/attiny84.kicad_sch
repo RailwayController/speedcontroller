@@ -3667,7 +3667,7 @@
       (reference "R19") (unit 1) (value "1K") (footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder")
     )
     (path "/df3688de-67e0-4885-a713-63e5cad4b2cd/268efdc8-9cdf-4caf-90c2-f42954cf06cd"
-      (reference "SW1") (unit 1) (value "SW_DIP_x08") (footprint "Package_DIP:DIP-16_W7.62mm")
+      (reference "SW1") (unit 1) (value "SW_DIP_x08") (footprint "Button_Switch_THT:SW_DIP_SPSTx08_Slide_6.7x21.88mm_W7.62mm_P2.54mm_LowProfile")
     )
     (path "/5845a0f0-d5bd-4176-bea4-e378e2f4e6b3"
       (reference "SW2") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_B3U-1000P")
