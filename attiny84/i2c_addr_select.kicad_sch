@@ -5,9 +5,9 @@
   (paper "A4")
 
   (title_block
-    (title "Speed controller")
-    (date "2022-11-26")
-    (rev "0.3")
+    (title "Speed Control Node")
+    (date "2022-12-20")
+    (rev "0.4")
     (company "Sidings Media")
     (comment 1 "Licence: CERN-OHL-P-2.0 or any later version")
   )
