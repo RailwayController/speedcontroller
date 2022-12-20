@@ -3234,7 +3234,7 @@
   (gr_line locked (start 55.1 47.5) (end 214.9 47.5) (layer "B.CrtYd") (width 0.2) (tstamp 8e2a03cc-0de1-4d35-8477-4e11d995613d))
   (gr_line locked (start 55.1 142.5) (end 214.9 142.5) (layer "F.CrtYd") (width 0.2) (tstamp 9f07e01b-42df-4111-ab91-de8ece15f724))
   (gr_line locked (start 214.9 47.5) (end 55.1 47.5) (layer "F.CrtYd") (width 0.2) (tstamp e9cf1cdf-4175-43c2-a2be-7977d2cf7d3d))
-  (gr_text "Railway controller speed control board\nRevision 0.3\n\nSidings Media\nLicence: CERN-OHL-P-2.0 or any later version" (at 68.68 133.43) (layer "F.SilkS") (tstamp 10fbb168-992e-40dc-b186-998e2265bf49)
+  (gr_text "Railway controller speed control node\nRevision 0.4\n\nSidings Media\nLicence: CERN-OHL-P-2.0 or any later version" (at 68.68 133.43) (layer "F.SilkS") (tstamp 10fbb168-992e-40dc-b186-998e2265bf49)
     (effects (font (size 1.5 1.5) (thickness 0.15)) (justify left))
   )
   (gr_text "Motor out\nB" (at 203.68 75.93 90) (layer "F.SilkS") (tstamp 21a4da11-b109-4807-8140-f45b81ec0cd3)
